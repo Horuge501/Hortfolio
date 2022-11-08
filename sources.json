@@ -1,5 +1,5 @@
 {
-	"about":"Soy Jorge Beristain Uribe tambien respondeo con el apodo de Horuge y soy un estudiante de desarrollo y programación videojuegos. Esta es una página sobre mi y mi proyectos. Mi contacto principal es por el siguiente correo jberistain501@gmail.com",
+	"about":"Soy Jorge Beristain Uribe tambien respondo con el apodo de Horuge y soy un estudiante de desarrollo y programación videojuegos. Esta es una página sobre mi y mi proyectos. Mi contacto principal es por el siguiente correo jberistain501@gmail.com",
 	"aboutimg": "https://img.itch.zone/aW1nLzEwNDE4NTI1LmpwZWc=/100x100%23/AgXS7r.jpeg",
 	"portfolio": [
 		{
@@ -32,5 +32,10 @@
 			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
 			"src": "https://www.github.com"
 		}
-	]
+	],
+	"About Me": [
+		{
+			"about":"Soy Jorge Beristain Uribe de Ciudad de México, actualmente soy estudiante de la carrera de desarrollo y programación de videojuegos en la universidad de Coco School. Actualmente tengo participación en un Game Jam. Mi área de especialidad es en la parte de programación y me gustaría especializarme más tanto en el área de gameplay o de inteligencia artificial"
+		}
+		]
 }
