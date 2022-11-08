@@ -35,7 +35,28 @@
 	],
 	"about me": [
 		{
-			"about":"Soy Jorge Beristain Uribe de Ciudad de México, actualmente soy estudiante de la carrera de desarrollo y programación de videojuegos en la universidad de Coco School. Actualmente tengo participación en un Game Jam. Mi área de especialidad es en la parte de programación y me gustaría especializarme más tanto en el área de gameplay o de inteligencia artificial"
+			"about":"Soy Jorge Beristain Uribe de Ciudad de México, actualmente soy estudiante de la carrera de desarrollo y programación de videojuegos en la universidad de Coco School. Actualmente tengo participación en un Game Jam. Mi área de especialidad es en la parte de programación y me gustaría especializarme más tanto en el área de gameplay o de inteligencia artificial",
+			"aboutimg": "https://img.itch.zone/aW1nLzEwNDE4NTI1LmpwZWc=/100x100%23/AgXS7r.jpeg"
 		}
-		]
+	],
+	"contacto": [
+		{
+			"name": "Github",
+			"desc": "Aqui se podrá ver los repositorios que tengo",
+			"img": "https://play.google.com/store/apps/details?id=com.github.android&hl=en_US&gl=US",
+			"src": "https://github.com/Horuge501"
+		},
+		{
+			"name": "Discord",
+			"desc": "Red de contacto principal, Horuge#8521",
+			"img": "https://play.google.com/store/apps/details?id=com.discord&hl=es_419&gl=US",
+			"src": "https://discord.com/"
+		},
+		{
+			"name": "Correo",
+			"desc": "Otra manera de poder contactarme es por el correo de jberistain501@gmail.com",
+			"img": "https://play.google.com/store/apps/details?id=com.google.android.gm&hl=es&gl=US",
+			"src": "https://www.google.com/intl/es-419/gmail/about/"
+		}
+	]
 }
